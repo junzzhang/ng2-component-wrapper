@@ -1,2 +1,2 @@
 # ng2-resizeable
-Enables resize functionality for any element.
+Enables resize, drag, rotate functionality for any element.
